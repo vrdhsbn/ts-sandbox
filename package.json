@@ -1,0 +1,14 @@
+{
+  "name": "ts-sandbox",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon -w src -e ts"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.7.1",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
